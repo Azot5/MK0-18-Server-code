@@ -1,4 +1,4 @@
-#test MK 0-18
+#test MK 0-1
 
 import random
 import hashlib
