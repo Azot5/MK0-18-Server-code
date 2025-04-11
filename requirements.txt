@@ -6,3 +6,4 @@ passlib
 jwt
 fastapi
 uvicorn[standard]
+jinja2
