@@ -5,3 +5,4 @@ sqlalchemy
 passlib
 jwt
 fastapi
+uvicorn[standard]
