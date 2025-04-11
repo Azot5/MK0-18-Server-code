@@ -2,7 +2,7 @@ tqdm
 config_reader
 fastapi
 sqlalchemy
-passlib.context
+passlib
 jwt
 fastapi
 xml.etree.ElementTree
