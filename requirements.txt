@@ -3,7 +3,7 @@ config_reader
 fastapi
 sqlalchemy
 passlib
-jwt
+PyJWT
 fastapi
 uvicorn[standard]
 jinja2
