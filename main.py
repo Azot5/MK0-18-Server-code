@@ -1,3 +1,5 @@
+#test MK 0-18
+
 import random
 import hashlib
 import configparser
