@@ -1,8 +1,4 @@
-hashlib
-configparser
-xml.etree
 tqdm
-sqlite3
 config_reader
 fastapi
 sqlalchemy
@@ -10,4 +6,3 @@ passlib.context
 jwt
 fastapi
 xml.etree.ElementTree
-pathlib
